@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <persistentplayerdata>
-  <player platform="EOS" userid="000233bee6c6441eb5e222ce563c28e0" nativeplatform="Steam" nativeuserid="76561198250084114" playername="Steel_bite98" lastlogin="2024-08-14 19:37:16" position="547,38,-346">
+  <player platform="EOS" userid="000233bee6c6441eb5e222ce563c28e0" nativeplatform="Steam" nativeuserid="76561198250084114" playername="Steel_bite98" lastlogin="2024-08-14 20:39:38" position="552,34,-359">
     <acl platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" />
     <acl platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" />
     <acl platform="EOS" userid="000233731a78401c99bb53bcc05fa3ae" />
@@ -10,19 +10,23 @@
       <position id="827729304" positiondatatype="2" pos="2328,21,-1994" />
       <position id="827729304" positiondatatype="0" pos="1591,38,19" />
       <position id="827729304" positiondatatype="7" pos="2349,35,-1953" />
-      <position id="144456561" positiondatatype="0" pos="414,36,-352" />
-      <position id="144456561" positiondatatype="2" pos="467,31,86" />
+      <position id="612052947" positiondatatype="2" pos="461,33,251" />
+      <position id="612052947" positiondatatype="0" pos="414,36,-352" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" nativeplatform="Steam" nativeuserid="76561198382116703" playername="Miss_Me" lastlogin="2024-08-14 20:10:50" position="595,35,-309">
+  <player platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" nativeplatform="Steam" nativeuserid="76561198382116703" playername="Miss_Me" lastlogin="2024-08-14 23:20:16" position="589,35,-310">
     <acl platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" />
     <acl platform="EOS" userid="000233bee6c6441eb5e222ce563c28e0" />
     <acl platform="EOS" userid="000233731a78401c99bb53bcc05fa3ae" />
     <lpblock pos="-670,35,-215" />
     <lpblock pos="585,35,-310" />
     <bedroll pos="594,35,-318" />
+    <questpositions>
+      <position id="-782145454" positiondatatype="2" pos="1892,30,-598" />
+      <position id="-782145454" positiondatatype="0" pos="1591,38,19" />
+    </questpositions>
   </player>
-  <player platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" nativeplatform="Steam" nativeuserid="76561199562384719" playername="Jerry" lastlogin="2024-08-14 19:37:07" position="-1598,35,406">
+  <player platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" nativeplatform="Steam" nativeuserid="76561199562384719" playername="Jerry" lastlogin="2024-08-14 23:20:16" position="-1650,41,237">
     <acl platform="EOS" userid="000233bee6c6441eb5e222ce563c28e0" />
     <acl platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" />
     <acl platform="EOS" userid="000233731a78401c99bb53bcc05fa3ae" />
@@ -33,12 +37,12 @@
       <position id="827729304" positiondatatype="2" pos="2328,21,-1994" />
       <position id="827729304" positiondatatype="0" pos="1591,38,19" />
       <position id="827729304" positiondatatype="7" pos="2349,35,-1953" />
-      <position id="388918405" positiondatatype="2" pos="-1672,29,378" />
-      <position id="388918405" positiondatatype="0" pos="-1237,35,508" />
-      <position id="388918405" positiondatatype="7" pos="-1632,35,445" />
+      <position id="-2088453703" positiondatatype="0" pos="-1237,35,508" />
+      <position id="-2088453703" positiondatatype="2" pos="-1656,34,229" />
+      <position id="-2088453703" positiondatatype="7" pos="-1649,35,252" />
     </questpositions>
   </player>
-  <player platform="EOS" userid="000233731a78401c99bb53bcc05fa3ae" nativeplatform="Steam" nativeuserid="76561198322755855" playername="Freakin'-" lastlogin="2024-08-13 00:27:17" position="585,35,-352">
+  <player platform="EOS" userid="000233731a78401c99bb53bcc05fa3ae" nativeplatform="Steam" nativeuserid="76561198322755855" playername="Freakin'-" lastlogin="2024-08-14 21:28:47" position="588,34,-345">
     <acl platform="EOS" userid="0002749101d74dbfaebd62cd9649d2be" />
     <acl platform="EOS" userid="0002e60eeb204b72b3cd64d390092143" />
     <acl platform="EOS" userid="000233bee6c6441eb5e222ce563c28e0" />
